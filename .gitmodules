@@ -1,12 +1,15 @@
-[submodule "php-mpos"]
-	path = php-mpos
-	url = https://github.com/TheSerapher/php-mpos.git
-[submodule "stratum"]
-	path = stratum
-	url = https://github.com/moopless/stratum-mining-litecoin.git
-[submodule "litecoin"]
-	path = litecoin
+[submodule "coins/bitcoin"]
+	path = coins/bitcoin
+	url = https://github.com/bitcoin/bitcoin.git
+[submodule "coins/litecoin"]
+	path = coins/litecoin
 	url = https://github.com/litecoin-project/litecoin.git
-[submodule "feathercoin"]
-	path = feathercoin
+[submodule "coins/feathercoin"]
+	path = coins/feathercoin
 	url = https://github.com/FeatherCoin/FeatherCoin.git
+[submodule "mining/stratum"]
+	path = mining/stratum
+	url = https://github.com/moopless/stratum-mining-litecoin.git
+[submodule "src/php-mpos"]
+	path = src/php-mpos
+	url = git@github.com:TheSerapher/php-mpos.git
