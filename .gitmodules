@@ -7,9 +7,12 @@
 [submodule "coins/feathercoin"]
 	path = coins/feathercoin
 	url = https://github.com/FeatherCoin/FeatherCoin.git
-[submodule "mining/stratum"]
-	path = mining/stratum
-	url = https://github.com/moopless/stratum-mining-litecoin.git
 [submodule "src/php-mpos"]
 	path = src/php-mpos
 	url = git@github.com:TheSerapher/php-mpos.git
+[submodule "mining/stratum-mining-litecoin"]
+	path = mining/stratum-mining-litecoin
+	url = https://github.com/moopless/stratum-mining-litecoin.git
+[submodule "mining/stratum-mining"]
+	path = mining/stratum-mining
+	url = https://bitbucket.org/ahmedbodi/stratum-mining.git
