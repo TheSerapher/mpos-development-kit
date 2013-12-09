@@ -10,6 +10,3 @@
 [submodule "src/php-mpos"]
 	path = src/php-mpos
 	url = git@github.com:TheSerapher/php-mpos.git
-[submodule "mining/stratum-mining"]
-	path = mining/stratum-mining
-	url = https://bitbucket.org/ahmedbodi/stratum-mining.git
